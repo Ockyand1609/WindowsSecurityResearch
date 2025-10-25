@@ -1,5 +1,5 @@
 P.S Sorry, I posted the exe file in the wrong place.
-
+P.P.S I`m dont tested this, if errors, go to Issues, i fix that
 
 # 🛡️ Windows Security Research / Исследование Безопасности Windows
 
