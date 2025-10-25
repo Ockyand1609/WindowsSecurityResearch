@@ -1,3 +1,6 @@
+P.S Sorry, I posted the exe file in the wrong place.
+
+
 # 🛡️ Windows Security Research / Исследование Безопасности Windows
 
 > **⚠️ LEGAL DISCLAIMER / ЮРИДИЧЕСКОЕ ПРЕДУПРЕЖДЕНИЕ**  
